@@ -1,10 +1,9 @@
 {
+  "homepage": "https://matiashaddad.github.io/trailflix/",
   "name": "netflix-clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "main": "index.js",
-  "homepage": "https://matiashaddad.github.io/trailflix/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
